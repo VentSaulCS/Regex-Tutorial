@@ -89,6 +89,8 @@ You are required to submit the following for review:
 
 https://github.com/VentSaulCS, Saul Ventura 
 
+© 2021 Trilogy Education Services, LLC, a 2U, Inc. brand. Confidential and Proprietary. All Rights Reserved.
+
 # Regex-Tutorial
 sources:
 https://coding-boot-camp.github.io/full-stack/computer-science/regex-tutorial
